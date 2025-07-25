@@ -71,3 +71,8 @@ Each output Excel file will have:
 This script uses data from ISRIC SoilGrids. Please cite accordingly when using this tool in research.
 
 🔗 https://soilgrids.org/
+
+
+[![DOI](https://zenodo.org/badge/1026375010.svg)](https://doi.org/10.5281/zenodo.16423400)
+
+
